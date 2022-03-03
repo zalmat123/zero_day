@@ -1,1 +1,1 @@
- echo "0x00-vagrant"
+ echo "uname"
